@@ -3,6 +3,8 @@
 <img src="data/screenshot.png" alt="EDA Previs Screenshot" width="600"/>
 This TouchDesigner project provides a real-time previsualization system for UCLA's EDA Immersive Projection System.
 
+To download this project, click on *Clone or download* and then select *Download ZIP*. Alternatively, you can close this Github repository if you are a Github user.
+
 In order to run this project, you'll need to [download TouchDesigner](https://www.derivative.ca/099/Downloads/experimental.asp) and have at least a non-commercial license. This project was created in Version 2019.13330.
 
 To load files, move your mouse towards the bottom of the window and use the Load File buttons. Please note that all files should have the same number of frames. The middle channel is what drives playback for all three.
