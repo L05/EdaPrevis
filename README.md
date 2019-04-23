@@ -8,12 +8,12 @@ In order to run this project, you'll need to [download TouchDesigner](https://ww
 To load files, move your mouse towards the bottom of the window and use the Load File buttons. Please note that all files should have the same number of frames. The middle channel is what drives playback for all three.
 
 ## File Specifications
-![EDA Immersive Space](http://classes.dma.ucla.edu/Spring19/24/wp-content/uploads/EDA01-1024x410.png)
-![EDA File Map](http://classes.dma.ucla.edu/Spring19/24/wp-content/uploads/EDA02-1024x129.png)
+<img src="http://classes.dma.ucla.edu/Spring19/24/wp-content/uploads/EDA01-1024x410.png" alt="EDA Immersive Space" width="600"/>
+<img src="http://classes.dma.ucla.edu/Spring19/24/wp-content/uploads/EDA02-1024x129.png" alt="EDA File Map" width="600"/>
 
 The EDA Immersive Projection System expects three video files:
 * Left: 3840x1200
 * Center: 1920x1200
 * Right: 3840x1200
 
-Please see the [Submission Guidelines](http://classes.dma.ucla.edu/Spring19/24/index.php/submission-guidelines/) for DESMA 24 for further information on specs and encoding procedures.
+Please see the DESMA 24 [Submission Guidelines](http://classes.dma.ucla.edu/Spring19/24/index.php/submission-guidelines/) for further information on specs and encoding procedures.
